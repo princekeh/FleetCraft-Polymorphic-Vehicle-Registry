@@ -1,4 +1,4 @@
-# Car Rental Agency Application
+# Vehicle Rental Agency Application
 
 
 🚛 About the Project
